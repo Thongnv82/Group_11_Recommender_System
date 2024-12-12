@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Group_11_App.py
